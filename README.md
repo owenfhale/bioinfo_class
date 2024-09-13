@@ -23,4 +23,6 @@ Welcome to the home page of the Microbe Host Interactions bioinformatics module!
  - [ACCRE cheat sheet](https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/157/2018/02/19214952/ACCRE-Cheat-Sheet-March-2019.pdf)
 ### R
  - [R for Data Science](https://r4ds.hadley.nz/)
+   
 ### 16S rRNA Tutorials
+ -
