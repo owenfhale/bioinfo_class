@@ -14,6 +14,7 @@ Welcome to the home page of the Microbe Host Interactions bioinformatics module!
 ## Module Schedule
  - class 1
  - class 2
+ - [Genome Annotation](https://github.com/owenfhale/bioinfo_class/tree/main/genome_annotation)
  - etc.
 
 ## Helpful Links
