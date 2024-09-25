@@ -31,5 +31,6 @@ Welcome to the home page of the Microbe Host Interactions bioinformatics module!
 ### 16S rRNA Tutorials
  - [Demonstration of 16S rRNA-based microbiome analysis using dada2, phyloseq, LEfSe, picrust2 and other tools
 ](https://ycl6.github.io/16S-Demo/index.html)
- - [DADA2 Workflow] (https://hypocolypse.github.io/16s-dada2.html)
- - [Processing marker-gene data with DADA2] (https://web.stanford.edu/class/bios221/Pune/Labs/Lab_dada2/Lab_dada2_workflow.html)
+ - [DADA2 Workflow](https://hypocolypse.github.io/16s-dada2.html)
+ - [Processing marker-gene data with DADA2](https://web.stanford.edu/class/bios221/Pune/Labs/Lab_dada2/Lab_dada2_workflow.html)
+ - [DADA2 Pipeline Tutorial](https://benjjneb.github.io/dada2/tutorial_1_2.html)
