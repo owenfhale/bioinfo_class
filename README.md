@@ -11,6 +11,10 @@ Welcome to the home page of the Microbe Host Interactions bioinformatics module!
  - 7th year Microbe Host Interactions MD/PhD candidate in Maria Hadjifrangiskou's lab
  - Uses bioinformatics to characterize the microbiome of patients at risk of urinary tract infections
 
+### Jamisha Francis
+ - 7th year Microbe Host Interactions PhD candidate in Maria Hadjifrangiskou's lab
+ - Uses bioinformatics to characterize the microbiome of the urinary tract
+
 ## Module Schedule
  - class 1
  - class 2
