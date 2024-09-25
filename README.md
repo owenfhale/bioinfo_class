@@ -29,4 +29,5 @@ Welcome to the home page of the Microbe Host Interactions bioinformatics module!
  - [R for Data Science](https://r4ds.hadley.nz/)
    
 ### 16S rRNA Tutorials
- -
+ -[Demonstration of 16S rRNA-based microbiome analysis using dada2, phyloseq, LEfSe, picrust2 and other tools
+](https://ycl6.github.io/16S-Demo/index.html)
