@@ -3,7 +3,7 @@
 Genome annotation is the process by which we take a DNA sequence (usually a genome assembly) and label functionally important regions.
 ## Why do we do it?
 ## How does it work?
-## ☣️Hazards☣️
+## ☣️Bio(informatic)hazards☣️
 ## Reading
 [comment]: <> (use MLA citations here)
  - [Seemann, Torsten. "Prokka: rapid prokaryotic genome annotation." Bioinformatics 30.14 (2014): 2068-2069.](https://doi.org/10.1093/bioinformatics/btu153)
