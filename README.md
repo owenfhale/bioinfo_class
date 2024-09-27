@@ -21,6 +21,11 @@ Welcome to the home page of the Microbe Host Interactions bioinformatics module!
  - [Genome Annotation](https://github.com/owenfhale/bioinfo_class/tree/main/genome_annotation)
  - etc.
 
+## Papers bolstered by genomics
+ - Zhu, Meilin, et al. "Vaginal Lactobacillus fatty acid response mechanisms reveal a metabolite-targeted strategy for bacterial vaginosis treatment." Cell (2024).
+ - Worthan, Sarah B., et al. "Evolution of pH-sensitive transcription termination in Escherichia coli during adaptation to repeated long-term starvation." Proceedings of the National Academy of Sciences 121.39 (2024): e2405546121.
+ - Weiss, Andy, et al. "Zn-regulated GTPase metalloprotein activator 1 modulates vertebrate zinc homeostasis." Cell 185.12 (2022): 2148-2163.
+
 ## Helpful Links
 ### ACCRE
  - [ACCRE website](https://www.vanderbilt.edu/accre/)
