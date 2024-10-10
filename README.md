@@ -4,15 +4,15 @@ Welcome to the home page of the Microbe Host Interactions bioinformatics module!
 
 ## About us
 ### Owen Hale
- - 4th year Biological Sciences PhD candidate in Megan Behringer's lab
- - Uses bioinformatics to study the ecology and evolution of microbes in the lab and inside hosts
+ - 4th year Biological Sciences PhD candidate in [Megan Behringer's lab](https://behringerlab.wixsite.com/index)
+ - Uses bioinformatics to study ecology and evolution in the human microbiome
 
 ### Seth Reasoner
- - 7th year Microbe Host Interactions MD/PhD candidate in Maria Hadjifrangiskou's lab
+ - 7th year Microbe Host Interactions MD/PhD candidate in [Maria Hadjifrangiskou's lab](https://my.vanderbilt.edu/hadjifrangiskoulab/)
  - Uses bioinformatics to characterize the microbiome of patients at risk of urinary tract infections
 
 ### Jamisha Francis
- - 7th year Microbe Host Interactions PhD candidate in Maria Hadjifrangiskou's lab
+ - 7th year Microbe Host Interactions PhD candidate in [Maria Hadjifrangiskou's lab](https://my.vanderbilt.edu/hadjifrangiskoulab/)
  - Uses bioinformatics to characterize the microbiome of the urinary tract
 
 ## Module Schedule
