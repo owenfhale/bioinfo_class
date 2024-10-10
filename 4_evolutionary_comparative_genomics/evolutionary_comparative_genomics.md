@@ -20,5 +20,10 @@ Members of bacterial species can vary greatly in the presence and absence of gen
  - parameter choice and model assumptions
 ## Reading
 [comment]: <> (use MLA citations here)
- - [Tonkin-Hill, Gerry, et al. "Producing polished prokaryotic pangenomes with the Panaroo pipeline." Genome biology 21 (2020): 1-21.](https://doi.org/10.1186/s13059-020-02090-4)
- - [Weimann, Aaron, et al. "Evolution and host-specific adaptation of Pseudomonas aeruginosa." Science 385.6704 (2024): eadi0908.](https://doi.org/10.1126/science.adi0908)
+[Tonkin-Hill, Gerry, et al. "Producing polished prokaryotic pangenomes with the Panaroo pipeline." Genome biology 21 (2020): 1-21.](https://doi.org/10.1186/s13059-020-02090-4)
+
+[Weimann, Aaron, et al. "Evolution and host-specific adaptation of Pseudomonas aeruginosa." Science 385.6704 (2024): eadi0908.](https://doi.org/10.1126/science.adi0908)
+## Tools:
+Pangenomics: [Panaroo](https://gthlab.au/panaroo/#/)
+
+Phylogenetics: [IQ-TREE](http://www.iqtree.org/)
