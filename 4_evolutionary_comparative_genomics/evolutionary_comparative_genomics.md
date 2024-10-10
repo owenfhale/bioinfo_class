@@ -13,7 +13,9 @@ Phylogenetics aims to reconstruct life's evolutionary history. In our context, w
 ### Garbage in, garbage out
 Pangenome inference requires high quality assemblies and annotations. Poor assemblies may be missing genes that are present in the genome or include genes that were introduced through contamination. Additionally, errors introduced during sequencing or assembly may make a gene appear non-functional, resulting in its exclusion from the pangenome tallies. Highly fragmented assemblies can lead to the exclusion of genes that are split across contigs or the inclusion of genes that are misannotated. Poor annotations may miss genes that are present or may include genes that are not functional or simply nonexistant. While it is impractical to manually confirm the quality of every result in a pangenome analysis, you should do some quality control to verify major findings. For example, if you find that the presence of a gene is associated with a phenotype, you should look at the sequence alignment for that gene and look for samples where the gene may have been misannotated or mutations that might alter its function.
 ### Sampling bias
+Something about how sampling bias can alter inferences (geographic, clinical, other biases)
 ### Parameter choice and model assumptions
+Something about overfitting and then how parameters can alter the quality of results
 ## Reading
 [comment]: <> (use MLA citations here)
 [Tonkin-Hill, Gerry, et al. "Producing polished prokaryotic pangenomes with the Panaroo pipeline." Genome biology 21 (2020): 1-21.](https://doi.org/10.1186/s13059-020-02090-4)
