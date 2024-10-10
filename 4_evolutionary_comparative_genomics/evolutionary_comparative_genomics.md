@@ -1,6 +1,6 @@
 # Evolutionary comparative genomics
 ## What is it?
-Evolutionary comparative genomics aims to understand the process by which biological diversity is created and maintained through the lense of genomics. Bacteria are dynamic organisms that are part of large populations and are subject to the evolutionary forces of drift, selection, mutation, and recombination. Our goal is to use sequence data to understand how these forces have combined to create the spectacular diversity found across the bacterial tree of life.
+Evolutionary comparative genomics aims to understand the process by which biological diversity is created and maintained through the lense of genomics. Bacteria are dynamic organisms that are part of large populations and are subject to the evolutionary forces of drift, selection, mutation, and recombination. Our goal is to use sequence data to understand how these forces have combined to create the spectacular diversity found across the bacterial tree of life and use this information to enhance our own research.
 ## Why do we do it?
 Most microbial pathogenesis work is performed on a limited number of model strains under controlled laboratory conditions. They are kept frozen both literally and in evolutionary time and may accumulate adaptations to the laboratory environment. Evolutionary comparative genomics allows us to broaden our persepective beyond model strains and connect laboratory findings to the natural world.
 ## How does it work?
