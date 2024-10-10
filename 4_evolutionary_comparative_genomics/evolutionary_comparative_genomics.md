@@ -18,7 +18,7 @@ Pangenome inference requires high quality assemblies and annotations. Poor assem
 [comment]: <> (use MLA citations here)
 [Tonkin-Hill, Gerry, et al. "Producing polished prokaryotic pangenomes with the Panaroo pipeline." Genome biology 21 (2020): 1-21.](https://doi.org/10.1186/s13059-020-02090-4)
 
-[Bryant, Josephine M., et al. "Stepwise pathogenic evolution of Mycobacterium abscessus." Science 372.6541 (2021): eabb8699.]([https://doi.org/10.1126/science.adi0908](https://doi.org/10.1126/science.abb8699))
+[Bryant, Josephine M., et al. "Stepwise pathogenic evolution of Mycobacterium abscessus." Science 372.6541 (2021): eabb8699.](https://doi.org/10.1126/science.abb8699)
 ## Tools:
 Pangenomics: [Panaroo](https://gthlab.au/panaroo/#/)
 
