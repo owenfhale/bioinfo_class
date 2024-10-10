@@ -6,16 +6,13 @@ Most microbial pathogenesis work is performed on a limited number of model strai
 ## How does it work?
 This is more of an approach than a technique, so rather than describing a specific algorithmic process, we will highlight applications of evolutionary comparative genomics that can be useful to molecular pathogenesis researchers.
 ### Pangenomics
- - bacterial gene cairriage is extremely variable even within species
- - this has motivated us to characterize pangenomes, or the set of all genes present in a population (basically gene prevalence)
- - the core genome is the set of genes found in all members of a population and is often used for phylogenetic inference
- - the rest of the pangenome can be associated with phenotypes (think presence of AMR/virulence genes)
- - can be used to tell if your gene of interest is commonly found in isolates from relevant environments (where might my results be relevant?)
+Members of bacterial species can vary greatly in the presence and absence of genes within their genomes. Even in a single, clonal lineage of _E. coli_, as few as 11% of all identified genes might be shared amongst all individuals ([Cummins et al. 2022](https://doi.org/10.1099/mgen.0.000903)). This incredible variation in gene content in closely related individuals has motivated researchers to investigate the pangenome, or the set of all genes encoded by members of a population. The goal of pangenomics is to characterize the prevalence of genes in a population and use this information to understand how this variation is shaped by evolutionary processes or explain important phenotypes like virulence and antimicrobial resistance. Additionally, the core genome, or the set of genes that are encoded by all members of a population, can be extremely usefull for phylogenetic inference, which is essential for performing genome-wide association studies (GWAS). Characterizing the pangenome of a microbial population can also help you to improve the impact of your molecular pathogenesis research. It can tell you how prevalent your gene of interest is in clinical isolates of your favorite species or it can be used to identify other genes that commonly co-occur with your gene of interest, potentially helping to generate hypotheses about how your gene functions. 
 ### Phylogenetics
  - estimate the evolutionary history that produced the sequence diversity we see today
  - can be done for individual sequences like genes, regulatory elements, genomic islands, or whole core genomes
  - essential for GWAS
  - can help identify population structure, HGT events, track outbreaks, etc.
+ - rate of evolution
  - methods include parsimony, neighbor joining, maximum likelihood, Bayesian
 ## ☣️Bio(informatic)hazards☣️
  - sampling bias
