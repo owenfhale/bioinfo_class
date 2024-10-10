@@ -16,10 +16,11 @@ Welcome to the home page of the Microbe Host Interactions bioinformatics module!
  - Uses bioinformatics to characterize the microbiome of the urinary tract
 
 ## Module Schedule
- - class 1
- - class 2
- - [Genome Annotation](https://github.com/owenfhale/bioinfo_class/tree/main/genome_annotation)
- - etc.
+1. [Introduction to bioinformatics](https://github.com/owenfhale/bioinfo_class/tree/main/1_intro_to_bioinformatics)
+2. [Sequence generation and quality control](https://github.com/owenfhale/bioinfo_class/tree/main/2_sequence_generation_and_qc)
+3. [Genome assembly and annotation](https://github.com/owenfhale/bioinfo_class/tree/main/3_assembly_and_annotation)
+4. [Evolutionary comparative genomics](https://github.com/owenfhale/bioinfo_class/tree/main/4_evolutionary_comparative_genomics)
+5. [Genotype-phenotype association](https://github.com/owenfhale/bioinfo_class/tree/main/5_genotype_phenotype_association)
 
 ## Papers bolstered by genomics
  - Zhu, Meilin, et al. "Vaginal Lactobacillus fatty acid response mechanisms reveal a metabolite-targeted strategy for bacterial vaginosis treatment." Cell (2024).
