@@ -13,11 +13,14 @@ You'll be able to find everything you need for each class on this page.
  - Uses bioinformatics to characterize the microbiome of patients at risk of urinary tract infections
 
 ## Module Schedule
-1. [Introduction to bioinformatics](## Lecture 1: Introduction to bioinformatics)
-2. Sequence generation and quality control
-3. Genome assembly and annotation
-4. Sequence alignment
-5. Data visualization with R
+1. [Introduction to bioinformatics](#Lecture-1:-Introduction-to-bioinformatics)
+2. [click on this link](#my-multi-word-header)
+
+### My Multi Word Header
+3. Sequence generation and quality control
+4. Genome assembly and annotation
+5. Sequence alignment
+6. Data visualization with R
 
 ***
 
