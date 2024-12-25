@@ -13,32 +13,15 @@ You'll be able to find everything you need for each class on this page.
  - Uses bioinformatics to characterize the microbiome of patients at risk of urinary tract infections
 
 ## Module Schedule
-1. [Introduction to bioinformatics](#Lecture-1:-Introduction-to-bioinformatics)
+1. [Introduction to bioinformatics](#lecture-1-introduction-to-bioinformatics)
 3. Sequence generation and quality control
 4. Genome assembly and annotation
 5. Sequence alignment
 6. Data visualization with R
 
-# Contents
- - [Specification](#specification) 
- - [Dependencies Title](#dependencies-title) 
-
-## Specification
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. 
-
-## Dependencies Title
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. Example text blah. Example text blah. 
-Example text blah. Example text blah. 
-
-
 ***
 
-## Lecture 1: Introduction to bioinformatics
+## Lecture 1 Introduction to bioinformatics
 #### Pre-class assignments:
  - Log into [ACCRE account](https://www.vanderbilt.edu/accre/)
  - Complete [ACCRE training](https://www.vanderbilt.edu/accre/required-training/)
