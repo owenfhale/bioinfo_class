@@ -14,19 +14,32 @@ You'll be able to find everything you need for each class on this page.
 
 ## Module Schedule
 1. [Introduction to bioinformatics](#lecture-1-introduction-to-bioinformatics)
-2. [Sequence generation and quality control](#lecture-2:-sequence-data-generation-and-quality-control)
+2. [Sequence generation and quality control](#lecture-2-sequence-data-generation-and-quality-control)
 3. [Genome assembly and annotation](#lecture-3-genome-assembly-and-annotation)
-4. [Sequence alignment]
-5. [Data visualization with R]
+4. [Sequence alignment](#lecture-4-sequence-alignment)
+5. [Data visualization with R](#lecture-5-data-visualization-with-r)
+6. [Student presentations](#lecture-6-student-presentations)
 
 ***
 
-## Lecture 1 Introduction to bioinformatics
+## Lecture 1: Introduction to bioinformatics
 #### Pre-class assignments:
  - Log into [ACCRE account](https://www.vanderbilt.edu/accre/)
  - Complete [ACCRE training](https://www.vanderbilt.edu/accre/required-training/)
 #### Lecture slides:
 [Click here for lecture slides](https://docs.google.com/presentation/d/1BbIJJxXv6dQ4siVwZKt_75FtPzUPPOCRh7aKnoqrbss/edit?usp=sharing)
+
+#### Tools for the final project:
+ - [Kraken2](https://github.com/DerrickWood/kraken2), a taxonomic profiler for metagenomics
+ - [VirulenceFinder](https://bitbucket.org/genomicepidemiology/virulencefinder/src/master/), a tool that identifies virulence genes in microbial genomes
+ - [Panaroo](https://gthlab.au/panaroo/#/), a bacterial pangenome analysis package
+ - [Breseq](https://github.com/barricklab/breseq/wiki), variant calling for clonal microbial evolution
+ - [iRep](https://github.com/christophertbrown/iRep/tree/master), a tool for estimating bacterial genome replication rates
+ - [IQ-TREE2](http://www.iqtree.org/), maximum likelihood phylogenomics
+
+We've linked the documentation for each tool to help you get started, but we expect you to find and read literature describing your tool.\
+While some of these tools have web-based interfaces, we want you to use the command line versions.
+
 #### Post-class assignments:
  - Read [introductory bioinformatics paper](https://doi.org/10.1371/journal.pcbi.1008645)
  - Read [fastp paper](https://doi.org/10.1002/imt2.107)
@@ -55,10 +68,11 @@ You'll be able to find everything you need for each class on this page.
 #### Post-class assignments:
  - Install [R and R Studio](https://posit.co/download/rstudio-desktop/)
  - Read one of the following papers:
-     - Short read alignment: [BWA mem]([link to paper](https://doi.org/10.48550/arXiv.1303.3997))
+     - Short read alignment: [BWA mem](https://doi.org/10.48550/arXiv.1303.3997)
      - Long read/whole-genome alignment: [minimap2](https://doi.org/10.1093/bioinformatics/bty191)
      - Hybrid genome assembly: [Unicycler](https://doi.org/10.1099/mgen.0.000132)
      - Eukaryotic genome annotation: [BRAKER2](https://doi.org/10.1093/nargab/lqaa108)
+     - Prokaryotic genome annotation: [Bakta](https://doi.org/10.1099/mgen.0.000685)
      - RNA-seq pipeline: [new Tuxedo protocol](https://doi.org/10.1038/nprot.2016.095)
      - TnSeq analysis: [TRANSIT](https://doi.org/10.1371/journal.pcbi.1004401)
      - Multiple sequence alignment: [MAFFT](https://doi.org/10.1093/nar/gkf436)
@@ -71,8 +85,15 @@ You'll be able to find everything you need for each class on this page.
 #### Post-class assignment:
  - Work on your final presentation and email your slides to Owen before the next class
 
-## Lecture 6: Your presentations!
-Make sure you've sent Owen your slides!
+## Lecture 6: Student presentations
+During Lecture 1, you and your partner(s) picked a tool.
+With your partner(s), you will run that tool on our class data, visualize your results, present the tool and your findings.
+We expect all partners to be involved in all parts of the project.
+Your presentations will be 7 minutes long plus an additional 3 minutes for questions.
+You will send your slides as a powerpoint file to Owen via email **before** class.
+An example project might be identifying antimicrobial resistance genes in our assemblies and comparing the number of resistance genes across species.
+I **strongly** recommend that you start working on this presentation early so you have time to troubleshoot.
+Owen and Seth will be available to help you if needed.
 
 ***
 
