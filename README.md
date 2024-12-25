@@ -14,13 +14,27 @@ You'll be able to find everything you need for each class on this page.
 
 ## Module Schedule
 1. [Introduction to bioinformatics](#Lecture-1:-Introduction-to-bioinformatics)
-2. [click on this link](#my-multi-word-header)
-
-### My Multi Word Header
 3. Sequence generation and quality control
 4. Genome assembly and annotation
 5. Sequence alignment
 6. Data visualization with R
+
+# Contents
+ - [Specification](#specification) 
+ - [Dependencies Title](#dependencies-title) 
+
+## Specification
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. 
+
+## Dependencies Title
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. Example text blah. Example text blah. 
+Example text blah. Example text blah. 
+
 
 ***
 
