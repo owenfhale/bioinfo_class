@@ -4,23 +4,73 @@ Welcome to the home page of the Microbe Host Interactions bioinformatics module!
 
 ## About us
 ### Owen Hale
- - 4th year Biological Sciences PhD candidate in [Megan Behringer's lab](https://behringerlab.wixsite.com/index)
+ - 4th-year Biological Sciences PhD candidate in [Megan Behringer's lab](https://behringerlab.wixsite.com/index)
  - Uses bioinformatics to study ecology and evolution in the human microbiome
 
 ### Seth Reasoner
- - 7th year Microbe Host Interactions MD/PhD candidate in [Maria Hadjifrangiskou's lab](https://my.vanderbilt.edu/hadjifrangiskoulab/)
+ - 7th-year Microbe Host Interactions MD/PhD candidate in [Maria Hadjifrangiskou's lab](https://my.vanderbilt.edu/hadjifrangiskoulab/)
  - Uses bioinformatics to characterize the microbiome of patients at risk of urinary tract infections
 
-### Jamisha Francis
- - 7th year Microbe Host Interactions PhD candidate in [Maria Hadjifrangiskou's lab](https://my.vanderbilt.edu/hadjifrangiskoulab/)
- - Uses bioinformatics to characterize the microbiome of the urinary tract
-
 ## Module Schedule
-1. [Introduction to bioinformatics](https://github.com/owenfhale/bioinfo_class/tree/main/1_intro_to_bioinformatics)
-2. [Sequence generation and quality control](https://github.com/owenfhale/bioinfo_class/tree/main/2_sequence_generation_and_qc)
-3. [Genome assembly and annotation](https://github.com/owenfhale/bioinfo_class/tree/main/3_assembly_and_annotation)
-4. [Evolutionary comparative genomics](https://github.com/owenfhale/bioinfo_class/tree/main/4_evolutionary_comparative_genomics)
-5. [Genotype-phenotype association](https://github.com/owenfhale/bioinfo_class/tree/main/5_genotype_phenotype_association)
+1. Introduction to bioinformatics
+2. Sequence generation and quality control
+3. Genome assembly and annotation
+4. Sequence alignment
+5. Data visualization with R
+
+***
+
+## Lecture 1: Introduction to bioinformatics
+#### Pre-class assignments:
+ - Log into [ACCRE account](https://www.vanderbilt.edu/accre/)
+ - Complete [ACCRE training](https://www.vanderbilt.edu/accre/required-training/)
+#### Lecture slides:
+[Click here for lecture slides](https://docs.google.com/presentation/d/1BbIJJxXv6dQ4siVwZKt_75FtPzUPPOCRh7aKnoqrbss/edit?usp=sharing)
+#### Post-class assignments:
+ - Read [introductory bioinformatics paper](https://doi.org/10.1371/journal.pcbi.1008645)
+ - Read [fastp paper](https://doi.org/10.1002/imt2.107)
+ - Peruse [fastp documentation](https://github.com/OpenGene/fastp)
+ - Install fastp with conda
+
+## Lecture 2: Sequence data generation and quality control
+#### Lecture slides:
+[Click here for lecture slides](link to slides)
+#### Post-class assignments:
+ - Read [Unicycler paper](https://doi.org/10.1371/journal.pcbi.1005595)
+ - Peruse [Unicycler documentation](https://github.com/rrwick/Unicycler)
+ - Read [prokka paper](https://doi.org/10.1093/bioinformatics/btu153)
+ - Peruse [prokka documentation](https://github.com/tseemann/prokka)
+
+## Lecture 3: Genome assembly and annotation
+#### Lecture slides:
+[Click here for lecture slides](link to slides)
+#### Post-class assignments:
+ - Read [bowtie2 paper](https://doi.org/10.1038/nmeth.1923)
+ - Peruse [bowtie2 documentation](https://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
+
+## Lecture 4: Sequence alignment
+#### Lecture slides:
+[Click here for lecture slides](link to slides)
+#### Post-class assignments:
+ - Read one of the following sequence alignment papers:
+     - [paper](link to paper)
+     - [paper](link to paper)
+     - [paper](link to paper)
+ - Install [R and R Studio](https://posit.co/download/rstudio-desktop/)
+
+## Lecture 5: Data visualization with R
+#### Lecture slides:
+[Click here for lecture slides](link to slides)
+#### Post-class assignment:
+ - Work on your final presentation
+ - Email your slides to Owen before the next class
+
+## Lecture 6: Your presentations!
+Make sure you've sent Owen your slides!
+
+***
+
+
 
 ## Papers bolstered by genomics
  - Zhu, Meilin, et al. "Vaginal Lactobacillus fatty acid response mechanisms reveal a metabolite-targeted strategy for bacterial vaginosis treatment." Cell (2024).
@@ -33,7 +83,7 @@ Welcome to the home page of the Microbe Host Interactions bioinformatics module!
  - [ACCRE cheat sheet](https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/157/2018/02/19214952/ACCRE-Cheat-Sheet-March-2019.pdf)
 ### R
  - [R for Data Science](https://r4ds.hadley.nz/)
-   
+ - [R Graphics Cookbook](https://r-graphics.org/)
 ### 16S rRNA Tutorials
  - [Demonstration of 16S rRNA-based microbiome analysis using dada2, phyloseq, LEfSe, picrust2 and other tools
 ](https://ycl6.github.io/16S-Demo/index.html)
