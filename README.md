@@ -1,6 +1,6 @@
 # MHI Bioinformatics Module
 ## Background
-Welcome to the home page of the Microbe Host Interactions bioinformatics module!
+Welcome to the home page of the Microbe Host Interactions bioinformatics module!\
 You'll be able to find everything you need for each class on this page.
 
 ## About the instructors:
