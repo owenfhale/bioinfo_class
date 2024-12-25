@@ -1,8 +1,9 @@
 # MHI Bioinformatics Module
 ## Background
-Welcome to the home page of the Microbe Host Interactions bioinformatics module! You'll be able to find everything you need for each class in its respective directory inside this repository.
+Welcome to the home page of the Microbe Host Interactions bioinformatics module!
+You'll be able to find everything you need for each class on this page.
 
-## About us
+## About the instructors:
 ### Owen Hale
  - 4th-year Biological Sciences PhD candidate in [Megan Behringer's lab](https://behringerlab.wixsite.com/index)
  - Uses bioinformatics to study ecology and evolution in the human microbiome
@@ -52,25 +53,28 @@ Welcome to the home page of the Microbe Host Interactions bioinformatics module!
 #### Lecture slides:
 [Click here for lecture slides](link to slides)
 #### Post-class assignments:
- - Read one of the following sequence alignment papers:
-     - [paper](link to paper)
-     - [paper](link to paper)
-     - [paper](link to paper)
  - Install [R and R Studio](https://posit.co/download/rstudio-desktop/)
-
+ - Read one of the following papers:
+     - Short read alignment: [BWA mem]([link to paper](https://doi.org/10.48550/arXiv.1303.3997))
+     - Long read/whole-genome alignment: [minimap2](https://doi.org/10.1093/bioinformatics/bty191)
+     - Hybrid genome assembly: [Unicycler](https://doi.org/10.1099/mgen.0.000132)
+     - Eukaryotic genome annotation: [BRAKER2](https://doi.org/10.1093/nargab/lqaa108)
+     - RNA-seq pipeline: [new Tuxedo protocol](https://doi.org/10.1038/nprot.2016.095)
+     - TnSeq analysis: [TRANSIT](https://doi.org/10.1371/journal.pcbi.1004401)
+     - Multiple sequence alignment: [MAFFT](https://doi.org/10.1093/nar/gkf436)
+     - Variant calling: [GATK HaplotypeCaler](https://doi.org/10.1101/201178)
+ - Peruse the [ggplot2 documentation](https://ggplot2.tidyverse.org/)
+   
 ## Lecture 5: Data visualization with R
 #### Lecture slides:
 [Click here for lecture slides](link to slides)
 #### Post-class assignment:
- - Work on your final presentation
- - Email your slides to Owen before the next class
+ - Work on your final presentation and email your slides to Owen before the next class
 
 ## Lecture 6: Your presentations!
 Make sure you've sent Owen your slides!
 
 ***
-
-
 
 ## Papers bolstered by genomics
  - Zhu, Meilin, et al. "Vaginal Lactobacillus fatty acid response mechanisms reveal a metabolite-targeted strategy for bacterial vaginosis treatment." Cell (2024).
@@ -81,6 +85,7 @@ Make sure you've sent Owen your slides!
 ### ACCRE
  - [ACCRE website](https://www.vanderbilt.edu/accre/)
  - [ACCRE cheat sheet](https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/157/2018/02/19214952/ACCRE-Cheat-Sheet-March-2019.pdf)
+ - [ACCRE training](https://www.vanderbilt.edu/accre/required-training/)
 ### R
  - [R for Data Science](https://r4ds.hadley.nz/)
  - [R Graphics Cookbook](https://r-graphics.org/)
