@@ -117,7 +117,7 @@ Owen and Seth will be available to help you if needed.
  - [Processing marker-gene data with DADA2](https://web.stanford.edu/class/bios221/Pune/Labs/Lab_dada2/Lab_dada2_workflow.html)
  - [DADA2 Pipeline Tutorial](https://benjjneb.github.io/dada2/tutorial_1_2.html)
 ### Microbiome Metagenomics
- - [Profiling of Shotgun Metagenomic Sequence Data using Kraken2/Bracken and HUMAnN2] (https://www.nicholas-ollberding.com/post/profiling-of-shotgun-metagenomic-sequence-data-using-kraken2-bracken-and-humann2/)
- - [Metagenomics Pipeline Tutorial] (https://rstudio-pubs-static.s3.amazonaws.com/425650_b4537c6bfdf4470ca3d244e499d115cf.html)
- - [BioBakery] (https://huttenhower.sph.harvard.edu/biobakery_workflows/)
+ - [Profiling of Shotgun Metagenomic Sequence Data using Kraken2/Bracken and HUMAnN2](https://www.nicholas-ollberding.com/post/profiling-of-shotgun-metagenomic-sequence-data-using-kraken2-bracken-and-humann2/)
+ - [Metagenomics Pipeline Tutorial](https://rstudio-pubs-static.s3.amazonaws.com/425650_b4537c6bfdf4470ca3d244e499d115cf.html)
+ - [BioBakery](https://huttenhower.sph.harvard.edu/biobakery_workflows/)
 ### RNASeq
