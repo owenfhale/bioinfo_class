@@ -123,3 +123,4 @@ Owen and Seth will be available to help you if needed.
 ### RNA-Seq
  - [RNA-Seq Tutorial](https://biocorecrg.github.io/RNAseq_course_2019/intro.html)
  - [Introduction to RNA-Seq Analysis](https://scienceparkstudygroup.github.io/rna-seq-lesson/)
+ - [Step-by-Step RNA-Seq Analysis](https://github.com/CebolaLab/RNA-seq)
