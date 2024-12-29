@@ -102,7 +102,7 @@ Owen and Seth will be available to help you if needed.
  - Worthan, Sarah B., et al. "Evolution of pH-sensitive transcription termination in Escherichia coli during adaptation to repeated long-term starvation." Proceedings of the National Academy of Sciences 121.39 (2024): e2405546121.
  - Weiss, Andy, et al. "Zn-regulated GTPase metalloprotein activator 1 modulates vertebrate zinc homeostasis." Cell 185.12 (2022): 2148-2163.
 
-## Helpful Links
+## Helpful Links and Tutorials
 ### ACCRE
  - [ACCRE website](https://www.vanderbilt.edu/accre/)
  - [ACCRE cheat sheet](https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/157/2018/02/19214952/ACCRE-Cheat-Sheet-March-2019.pdf)
@@ -116,3 +116,8 @@ Owen and Seth will be available to help you if needed.
  - [DADA2 Workflow](https://hypocolypse.github.io/16s-dada2.html)
  - [Processing marker-gene data with DADA2](https://web.stanford.edu/class/bios221/Pune/Labs/Lab_dada2/Lab_dada2_workflow.html)
  - [DADA2 Pipeline Tutorial](https://benjjneb.github.io/dada2/tutorial_1_2.html)
+### Microbiome Metagenomics
+ - Profiling of Shotgun Metagenomic Sequence Data using Kraken2/Bracken and HUMAnN2 (https://www.nicholas-ollberding.com/post/profiling-of-shotgun-metagenomic-sequence-data-using-kraken2-bracken-and-humann2/)
+ - Metagenomics Pipeline Tutorial (https://rstudio-pubs-static.s3.amazonaws.com/425650_b4537c6bfdf4470ca3d244e499d115cf.html)
+ - BioBakery (https://huttenhower.sph.harvard.edu/biobakery_workflows/)
+### RNASeq
