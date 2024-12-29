@@ -120,4 +120,6 @@ Owen and Seth will be available to help you if needed.
  - [Profiling of Shotgun Metagenomic Sequence Data using Kraken2/Bracken and HUMAnN2](https://www.nicholas-ollberding.com/post/profiling-of-shotgun-metagenomic-sequence-data-using-kraken2-bracken-and-humann2/)
  - [Metagenomics Pipeline Tutorial](https://rstudio-pubs-static.s3.amazonaws.com/425650_b4537c6bfdf4470ca3d244e499d115cf.html)
  - [BioBakery](https://huttenhower.sph.harvard.edu/biobakery_workflows/)
-### RNASeq
+### RNA-Seq
+ - [RNA-Seq Tutorial](https://biocorecrg.github.io/RNAseq_course_2019/intro.html)
+ - [Introduction to RNA-Seq Analysis](https://scienceparkstudygroup.github.io/rna-seq-lesson/)
