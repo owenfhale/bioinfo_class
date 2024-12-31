@@ -54,6 +54,7 @@ While some of these tools have web-based interfaces, we want you to use the comm
  - Peruse [Unicycler documentation](https://github.com/rrwick/Unicycler)
  - Read [prokka paper](https://doi.org/10.1093/bioinformatics/btu153)
  - Peruse [prokka documentation](https://github.com/tseemann/prokka)
+ - Install Unicycler with conda (see yaml file in Lecture 3 folder)
 
 ## Lecture 3: Genome assembly and annotation
 #### Lecture slides:
