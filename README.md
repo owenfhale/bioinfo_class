@@ -108,6 +108,10 @@ Owen and Seth will be available to help you if needed.
  - [ACCRE website](https://www.vanderbilt.edu/accre/)
  - [ACCRE cheat sheet](https://cdn.vanderbilt.edu/vu-URL/wp-content/uploads/sites/157/2018/02/19214952/ACCRE-Cheat-Sheet-March-2019.pdf)
  - [ACCRE training](https://www.vanderbilt.edu/accre/required-training/)
+
+### Downloading and Uploading Data to NCBI Databases
+- [Downloading files from NCBI’s SRA database](https://bioinformaticsworkbook.org/dataAcquisition/fileTransfer/sra.html#gsc.tab=0)_
+- [Submitting data to the NCBI Sequence Read Archive](https://rachaellappan.github.io/SRA/)
 ### R
  - [R for Data Science](https://r4ds.hadley.nz/)
  - [R Graphics Cookbook](https://r-graphics.org/)
