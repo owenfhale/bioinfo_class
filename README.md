@@ -14,10 +14,10 @@ You can find everything you need for each class on this page.
 
 ## Module Schedule
 1. [Introduction to bioinformatics](#lecture-1-introduction-to-bioinformatics)
-2. [Sequence generation and quality control](#lecture-2-sequence-data-generation-and-quality-control)
-3. [Genome assembly and annotation](#lecture-3-genome-assembly-and-annotation)
-4. [Sequence alignment](#lecture-4-sequence-alignment)
-5. [Data visualization with R](#lecture-5-data-visualization-with-r)
+2. [Data visualization with R](#lecture-2-data-visualization-with-r)
+3. [Sequence generation and quality control](#lecture-2-sequence-data-generation-and-quality-control)
+4. [Genome assembly and annotation](#lecture-3-genome-assembly-and-annotation)
+5. [Sequence alignment](#lecture-4-sequence-alignment)
 6. [Student presentations](#lecture-6-student-presentations)
 
 ***
