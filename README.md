@@ -81,15 +81,6 @@ While some of these tools have web-based interfaces, we want you to use the comm
 [Click here for lecture slides](https://docs.google.com/presentation/d/1LEiv3t50zS0IPm02gGwnCAYuN3uQ1w2nYkROrmiMmE4/edit?usp=sharing)
 #### Post-class assignments:
  - Work on your final presentation and email your slides to Owen before the next class
- - Read one of the following papers:
-     - Short read alignment: [BWA mem](https://doi.org/10.48550/arXiv.1303.3997)
-     - Long read/whole-genome alignment: [minimap2](https://doi.org/10.1093/bioinformatics/bty191)
-     - Hybrid genome assembly: [Unicycler](https://doi.org/10.1099/mgen.0.000132)
-     - Eukaryotic genome annotation: [BRAKER2](https://doi.org/10.1093/nargab/lqaa108)
-     - RNA-seq pipeline: [new Tuxedo protocol](https://doi.org/10.1038/nprot.2016.095)
-     - TnSeq analysis: [TRANSIT](https://doi.org/10.1371/journal.pcbi.1004401)
-     - Multiple sequence alignment: [MAFFT](https://doi.org/10.1093/nar/gkf436)
-     - Variant calling: [GATK HaplotypeCaler](https://doi.org/10.1101/201178)
    
 ## Lecture 6: Student presentations
 During Lecture 1, you and your partner(s) picked a tool.
