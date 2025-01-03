@@ -48,8 +48,11 @@ While some of these tools have web-based interfaces, we want you to use the comm
  - Install [fastp](https://github.com/OpenGene/fastp) with conda
 
 ## Lecture 2: Data visualization with R
-#### Lecture slides:
-[Click here for lecture slides](link to slides)
+#### Lecture content:
+[Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
+[Introduction to ggplot2](https://ggplot2.tidyverse.org/articles/ggplot2.html)
+[Bhosle et al. 2024](https://doi.org/10.1128/msystems.00452-24)
+
 #### Post-class assignment:
  - Read [fastp paper](https://doi.org/10.1002/imt2.107)
  - Read [fastp documentation](https://github.com/OpenGene/fastp)
