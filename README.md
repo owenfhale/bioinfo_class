@@ -42,25 +42,25 @@ While some of these tools have web-based interfaces, we want you to use the comm
 
 #### Post-class assignments:
  - Read [introductory bioinformatics paper](https://doi.org/10.1371/journal.pcbi.1008645)
- - Peruse the [ggplot2 documentation](https://ggplot2.tidyverse.org/)
+ - Read the [ggplot2 documentation](https://ggplot2.tidyverse.org/)
  - Install [R and R Studio](https://posit.co/download/rstudio-desktop/)
- - Install fastp with conda
+ - Install [fastp](https://github.com/OpenGene/fastp) with conda
 
 ## Lecture 2: Data visualization with R
 #### Lecture slides:
 [Click here for lecture slides](link to slides)
 #### Post-class assignment:
  - Read [fastp paper](https://doi.org/10.1002/imt2.107)
- - Peruse [fastp documentation](https://github.com/OpenGene/fastp)
+ - Read [fastp documentation](https://github.com/OpenGene/fastp)
 
 ## Lecture 3: Sequence data generation and quality control
 #### Lecture slides:
 [Click here for lecture slides](link to slides)
 #### Post-class assignments:
  - Read [Unicycler paper](https://doi.org/10.1371/journal.pcbi.1005595)
- - Peruse [Unicycler documentation](https://github.com/rrwick/Unicycler)
+ - Read [Unicycler documentation](https://github.com/rrwick/Unicycler)
  - Read [bakta paper](https://doi.org/10.1099/mgen.0.000685)
- - Peruse [bakta documentation](https://github.com/oschwengers/bakta)
+ - Read [bakta documentation](https://github.com/oschwengers/bakta)
  - Install Unicycler with conda
 
 ## Lecture 4: Genome assembly and annotation
@@ -68,7 +68,7 @@ While some of these tools have web-based interfaces, we want you to use the comm
 [Click here for lecture slides](link to slides)
 #### Post-class assignments:
  - Read [bowtie2 paper](https://doi.org/10.1038/nmeth.1923)
- - Peruse [bowtie2 documentation](https://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
+ - Read [bowtie2 documentation](https://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
  - Work on your final presentation
 
 ## Lecture 5: Sequence alignment
