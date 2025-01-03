@@ -52,6 +52,7 @@ While some of these tools have web-based interfaces, we want you to use the comm
 #### Post-class assignment:
  - Read [fastp paper](https://doi.org/10.1002/imt2.107)
  - Read [fastp documentation](https://github.com/OpenGene/fastp)
+ - Read and practice [basic Linux commands](https://help.accre.vanderbilt.edu/index.php?title=ACCRE_Cheat_Sheet)
 
 ## Lecture 3: Sequence data generation and quality control
 #### Lecture slides:
