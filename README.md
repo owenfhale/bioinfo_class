@@ -78,7 +78,7 @@ While some of these tools have web-based interfaces, we want you to use the comm
 
 ## Lecture 5: Sequence alignment
 #### Lecture slides:
-[Click here for lecture slides](link to slides)
+[Click here for lecture slides](https://docs.google.com/presentation/d/1LEiv3t50zS0IPm02gGwnCAYuN3uQ1w2nYkROrmiMmE4/edit?usp=sharing)
 #### Post-class assignments:
  - Work on your final presentation and email your slides to Owen before the next class
  - Read one of the following papers:
@@ -115,7 +115,7 @@ Owen and Seth will be available to help you if needed.
  - [ACCRE training](https://www.vanderbilt.edu/accre/required-training/)
 
 ### Downloading and Uploading Data to NCBI Databases
-- [Downloading files from NCBI’s SRA database](https://bioinformaticsworkbook.org/dataAcquisition/fileTransfer/sra.html#gsc.tab=0)_
+- [Downloading files from NCBI’s SRA database](https://bioinformaticsworkbook.org/dataAcquisition/fileTransfer/sra.html#gsc.tab=0)
 - [Submitting data to the NCBI Sequence Read Archive](https://rachaellappan.github.io/SRA/)
 ### R
  - [R for Data Science](https://r4ds.hadley.nz/)
