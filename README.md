@@ -42,6 +42,7 @@ While some of these tools have web-based interfaces, we want you to use the comm
 
 #### Post-class assignments:
  - Read [introductory bioinformatics paper](https://doi.org/10.1371/journal.pcbi.1008645)
+ - Read the [Intro to ggplot2](https://ggplot2.tidyverse.org/articles/ggplot2.html)
  - Read the [ggplot2 documentation](https://ggplot2.tidyverse.org/)
  - Install [R and R Studio](https://posit.co/download/rstudio-desktop/)
  - Install [fastp](https://github.com/OpenGene/fastp) with conda
