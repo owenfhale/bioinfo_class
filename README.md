@@ -118,6 +118,7 @@ Owen and Seth will be available to help you if needed.
  - [R for Data Science](https://r4ds.hadley.nz/)
  - [R Graphics Cookbook](https://r-graphics.org/)
  - [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends/tree/main)
+ - [R Graph Gallery](https://r-graph-gallery.com/ggplot2-package.html)
 ### 16S rRNA Tutorials
  - [Demonstration of 16S rRNA-based microbiome analysis using dada2, phyloseq, LEfSe, picrust2 and other tools
 ](https://ycl6.github.io/16S-Demo/index.html)
