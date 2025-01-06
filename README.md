@@ -49,9 +49,9 @@ While some of these tools have web-based interfaces, we want you to use the comm
 
 ## Lecture 2: Data visualization with R
 #### Lecture content:
-[Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
-[Introduction to ggplot2](https://ggplot2.tidyverse.org/articles/ggplot2.html)
-[Bhosle et al. 2024](https://doi.org/10.1128/msystems.00452-24)
+ - [Friends Don't Let Friends Make Bad Graphs](https://github.com/cxli233/FriendsDontLetFriends)
+ - [Introduction to ggplot2](https://ggplot2.tidyverse.org/articles/ggplot2.html)
+ - [Bhosle et al. 2024](https://doi.org/10.1128/msystems.00452-24)
 
 #### Post-class assignment:
  - Read [fastp paper](https://doi.org/10.1002/imt2.107)
