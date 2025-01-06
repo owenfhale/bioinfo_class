@@ -1,0 +1,173 @@
+---
+title: "Data Visualization with R"
+format: html
+editor: visual
+---
+
+# Installing packages
+
+### What are packages?
+
+Packages are sets of functions that you can install to make your life easier. For example, the {ggplot2} package contains useful plotting functions.
+
+### How do I install a package?
+
+There are many ways to install packages depending on where you are installing them from. Most R packages are available on the **C**omprehensive **R** **A**rchive **N**etwork, or [CRAN](https://cran.r-project.org/). Others can be found in places like the [Bioconductor Project](https://www.bioconductor.org/) or [GitHub](https://github.com/). Today we will only talk about packages on CRAN.
+
+To install a package on CRAN, we will use the `install.packages()` function.
+
+Let's install {ggplot2}:
+
+```{r}
+install.packages("ggplot2") # the package must be in quotes!
+```
+
+Press the green play button on the right of the code chunk above to run the line and install {ggplot2}
+
+# Loading packages
+
+Congratulations, you've installed {ggplot2}! However, before we can use the functions it comes with, we have to load it into our environment. Because R doesn't come with {ggplot2}, we have to tell R to add the package's functions to the set of functions R already has. You will have to do this every time you want to use {ggplot2} or any other package.
+
+To load an R package, we use the `library()` function. Let's load {ggplot2}:
+
+```{r}
+library(ggplot2) # the package must NOT be in quotes now
+```
+
+{ggplot2} is actually part of a suite of packages called the {Tidyverse} that are extremely useful for data analysis.
+
+Let's install and load the {Tidyverse}:
+
+```{r}
+install.packages('tidyverse') # note that single or double quotes work
+library(tidyverse)
+```
+
+# Importing data
+
+Now that we have the software programs we need to clean, tidy, and plot our data, we need some data!
+
+Today we'll use some differential abundance testing results for enzyme classes from cystic fibrosis patient gut microbiomes.
+
+Let's load it into our R environment:
+
+```{r}
+data <- # <- is the R assignment operator
+  read.csv( # this function reads in a CSV and outputs a data.frame
+  # Paths on Windows use \\ and paths on MacOS and Linux use /
+
+  file = "C:\\Users\\owenf\\Downloads\\EC_maaslin2.csv"
+)
+```
+
+Now let's look at our data frame:
+
+```{r}
+View(data)
+```
+
+You might notice that some of the names look weird. That's OK, we can easily fix that later.
+
+If you have any questions about how to use a function, you can enter `?function` into the console to view the help page.
+
+# Data wrangling
+
+Data visualization often requires some data pre-processing.
+
+Let's add a column to tell us if an enzyme class has a significant p-value and another to tell us if the q-value is below a certain threshold:
+
+```{r}
+data <- # here's the asignment operator again
+  data |> # this is the pipe operator
+  mutate(sig_p = pval < 0.05,
+         low_q = qval < 0.01)
+```
+
+Now let's check if this worked:
+
+```{r}
+View(data)
+```
+
+# Plotting
+
+We will use the `ggplot()` function to make our plots.
+
+First, let's make a histogram of our p-values. To do this, we will pipe `data` into the `ggplot` function, add our aesthetic mapping for the x-axis, and finish with our histogram geom. Note that for histograms you don't need a y-axis aesthetic mapping.
+
+```{r}
+data |>
+  ggplot(aes(x = pval)) + # after we use ggplot() we don't use |> we use +
+  geom_histogram()
+```
+
+Now let's try making a volcano plot with our data.
+
+To do this, we again pipe `data` into `ggplot()`. This time, we will map our log2 fold-change to the x-axis and our p-value to the y-axis and add a point geom:
+
+```{r}
+data |>
+  ggplot(aes(x = log2FC, y = pval)) +
+  geom_point()
+```
+
+If this doesn't look like a normal volcano plot to you, you're right! Volcano plots use a negative log transform on the p-value.
+
+Let's change our aesthetic mapping to transform our p-values:
+
+```{r}
+data |>
+  ggplot(aes(x = log2FC, y = -log10(pval))) +
+  geom_point()
+```
+
+This looks better!
+
+Now let's add some lines to this plot to denote substantial log2 fold-changes and significant p-values. Remember that geoms are added to plots in layers, so when we add our lines, we will add that code before our point geom so that we don't obstruct our data.
+
+```{r}
+data |>
+  ggplot(aes(x = log2FC, y = -log10(pval))) +
+  geom_hline(yintercept = -log10(0.05)) +
+  geom_vline(xintercept = c(-1, 1)) + # here I gave a list of x-intercepts. R lists look like c()
+  geom_point() 
+```
+
+This is looking better. Let's add some aesthetic mappings to help our audience tell which genes have significant changes:
+
+```{r}
+data |>
+  mutate(big_sig_change = (abs(log2FC) > 1 & sig_p)) |> # we can add piped functions to add new columns
+  ggplot(aes(x = log2FC, y = -log10(pval))) +
+  geom_hline(yintercept = -log10(0.05)) +
+  geom_vline(xintercept = c(-1, 1)) + 
+  geom_point(aes(shape = low_q,
+                 color = big_sig_change),
+             alpha = 0.5) + # adjust point transparency to avoid overplotting
+  scale_color_manual(values = c('gray', 'red')) + # manually set colors 
+  theme_bw() + # change plot theme
+  labs(shape = 'q < 0.01', # change labels
+       x = 'Log2 Fold Change',
+       y = "-Log10(p)") +
+  guides(color = "none") # get rid of color legend
+  
+```
+
+Working with your partner, cut out different parts of the code to see how it changes the plot:
+
+```{r}
+data |>
+  mutate(big_sig_change = (abs(log2FC) > 1 & sig_p)) |> # we can add piped functions to add new columns
+  ggplot(aes(x = log2FC, y = -log10(pval))) +
+  geom_hline(yintercept = -log10(0.05)) +
+  geom_vline(xintercept = c(-1, 1)) + 
+  geom_point(aes(shape = low_q,
+                 color = big_sig_change),
+             alpha = 0.5) + # adjust point transparency to avoid overplotting
+  scale_color_manual(values = c('gray', 'red')) + # manually set colors 
+  theme_bw() + # change plot theme
+  labs(shape = 'q < 0.01', # change labels
+       x = 'Log2 Fold Change',
+       y = "-Log10(p)") +
+  guides(color = "none") # get rid of color legend
+```
