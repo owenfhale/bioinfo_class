@@ -164,10 +164,15 @@ data |>
   geom_point(aes(shape = low_q,
                  color = big_sig_change),
              alpha = 0.5) + # adjust point transparency to avoid overplotting
-  scale_color_manual(values = c('gray', 'red')) + # manually set colors 
+  scale_color_manual(values = c('gray', 'red')) +
   theme_bw() + # change plot theme
   labs(shape = 'q < 0.01', # change labels
        x = 'Log2 Fold Change',
        y = "-Log10(p)") +
-  guides(color = "none") # get rid of color legend
+  guides(color = "none") +
+  #coord_polar() + # remove the comment on this one to see how to change your coordinate system
+  #xlim() + # set the x-axis limits by entering a list of two numbers: c(min, max)
+  #ylim() + # set the y-axis limits by entering a list of two numbers: c(min, max)
+  #facet_grid(nrow = 1, ncol = 0, cols = vars(big_sig_change) # facet into one row and two columns by big_sig_change
+
 ```
