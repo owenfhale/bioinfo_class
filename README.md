@@ -60,7 +60,7 @@ While some of these tools have web-based interfaces, we want you to use the comm
 
 ## Lecture 3: Sequence data generation and quality control
 #### Lecture slides:
-[Click here for lecture slides]([link to slideshttps://docs.google.com/presentation/d/1yPfjaWqhYrAX8V-9-u4fKxX4LcrYRDbV6xAcfT_A4EA/edit?usp=sharing])
+[Click here for lecture slides](link to slideshttps://docs.google.com/presentation/d/1yPfjaWqhYrAX8V-9-u4fKxX4LcrYRDbV6xAcfT_A4EA/edit?usp=sharing)
 #### Post-class assignments:
  - Read [Unicycler paper](https://doi.org/10.1371/journal.pcbi.1005595)
  - Read [Unicycler documentation](https://github.com/rrwick/Unicycler)
