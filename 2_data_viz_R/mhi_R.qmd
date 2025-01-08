@@ -153,7 +153,8 @@ data |>
   
 ```
 
-Working with your partner, cut out different parts of the code to see how it changes the plot:
+Working with your partner, add and remove comments to see how it changes the plot:
+Make sure that your uncommented code doesn't end with a `+` or else you'll get an error
 
 ```{r}
 data |>
