@@ -171,6 +171,7 @@ data |>
        x = 'Log2 Fold Change',
        y = "-Log10(p)") +
   guides(color = "none") +
+  #scale_shape_manual(values = c(15, 18)) + # set specific shapes
   #coord_polar() + # remove the comment on this one to see how to change your coordinate system
   #xlim() + # set the x-axis limits by entering a list of two numbers: c(min, max)
   #ylim() + # set the y-axis limits by entering a list of two numbers: c(min, max)
