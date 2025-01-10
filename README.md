@@ -64,8 +64,8 @@ While some of these tools have web-based interfaces, we want you to use the comm
 #### Post-class assignments:
  - Read [Unicycler paper](https://doi.org/10.1371/journal.pcbi.1005595)
  - Read [Unicycler documentation](https://github.com/rrwick/Unicycler)
- - Read [bakta paper](https://doi.org/10.1099/mgen.0.000685)
- - Read [bakta documentation](https://github.com/oschwengers/bakta)
+ - Read [prokka paper]((https://academic.oup.com/bioinformatics/article/30/14/2068/2390517))
+ - Read [prokka documentation](https://github.com/tseemann/prokka)
  - Install Unicycler with conda
 
 ## Lecture 4: Genome assembly and annotation
