@@ -64,7 +64,7 @@ While some of these tools have web-based interfaces, we want you to use the comm
 #### Post-class assignments:
  - Read [Unicycler paper](https://doi.org/10.1371/journal.pcbi.1005595)
  - Read [Unicycler documentation](https://github.com/rrwick/Unicycler)
- - Read [prokka paper]((https://academic.oup.com/bioinformatics/article/30/14/2068/2390517))
+ - Read [prokka paper](https://academic.oup.com/bioinformatics/article/30/14/2068/2390517)
  - Read [prokka documentation](https://github.com/tseemann/prokka)
  - Install Unicycler with conda
 
