@@ -70,7 +70,7 @@ While some of these tools have web-based interfaces, we want you to use the comm
 
 ## Lecture 4: Genome assembly and annotation
 #### Lecture slides:
-[Click here for lecture slides](link to slides)
+[Click here for lecture slides](https://docs.google.com/presentation/d/1CLY8sND_I0leo0jVHKKjPyqxpDdyMLXKj7wn8rnXzbE/edit?usp=sharing)
 #### Post-class assignments:
  - Read [bowtie2 paper](https://doi.org/10.1038/nmeth.1923)
  - Read [bowtie2 documentation](https://bowtie-bio.sourceforge.net/bowtie2/index.shtml)
